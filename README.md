@@ -6,3 +6,6 @@ Dataset includes important variables affecting the sales like region, retaile
 **TOTAL VARIABLES:** 13 (NUMERIC:7|CATEGORICAL:6)
 **DUMMY VARIABLES:** 2 ("Sales in - Store VS Outlet" and "Online vs Outlet")
 **TOTAL ROWS:** A total of 9648 rows of data was used for the analysis
+
+**Tableau Dashboard:** 
+https://public.tableau.com/views/ADDIDASSALESDASHBOARD/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
